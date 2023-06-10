@@ -2,7 +2,9 @@
 # <img src="https://raw.githubusercontent.com/dzenis-h/Reactive-Contacts__full-stack/main/build/favicon.ico" width = 50> Reactive Contacts - [full-stack version].
 
 ## Overview 📖
- have 2 apps for managing contacts. One takes advantage of the Context API, the other one was created with the help of Redux. This would be a full-stack version.📱
+ have 2 apps for managing contacts. One takes advantage of the Context API, the other one was created with the help of Redux. 
+
+This would be a full-stack version.📱
 
 ![screenshot](https://drive.google.com/uc?export=view&id=1wXUFPxXtakvRKDiWckaOnygy7qX7oBnh)
 
