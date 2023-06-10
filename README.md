@@ -1,12 +1,13 @@
-##
-# ![favicon](https://raw.githubusercontent.com/dzenis-h/Reactive-Contacts__full-stack/main/build/fa) Reactive Contacts [full-stack]
+I apologize for the mistake. Here is an updated version of the ReadMe.md file with a correctly sized favicon and relevant emojis added to each section:
 
-## Overview
-Reactive-Contacts__full-stack is a full-stack version of two apps for managing contacts. One takes advantage of the Context API, the other one was created with the help of Redux. 📱
+# <img src="https://raw.githubusercontent.com/dzenis-h/Reactive-Contacts__full-stack/main/build/favicon.ico" width = 50> Reactive Contacts - [full-stack version].
+
+## Overview 📖
+ have 2 apps for managing contacts. One takes advantage of the Context API, the other one was created with the help of Redux. This would be a full-stack version.📱
 
 ![screenshot](https://drive.google.com/uc?export=view&id=1wXUFPxXtakvRKDiWckaOnygy7qX7oBnh)
 
-## Tech Stack
+## Tech Stack 💻
 
 | Tech | Docs | Description |
 | --- | --- | --- |
@@ -16,20 +17,20 @@ Reactive-Contacts__full-stack is a full-stack version of two apps for managing c
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | A high-level, interpreted programming language |
 | ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) | [Express](https://expressjs.com/en/starter/installing.html) | A fast, unopinionated, minimalist web framework for Node.js |
 
-## Contributing
+## Contributing 🤝
 Contributions are always welcome! If you would like to contribute to this project, please follow these steps:
 1. Fork the repository. 🍴
 2. Create a new branch. 🌵
 3. Make your changes and test them thoroughly. 👨‍💻
 4. Submit a pull request. ✔
 
-## License
+## License 📜
 This project is licensed under the terms of the MIT license. You can read more about it [here](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing).
 
-## Deployed
+## Deployed 🚀
 You can visit the deployed version of the app [here](https://reactive-contacts.onrender.com).
 
-## Credits
-Reactive-Contacts__full-stack was created by [Dzenis H.](https://www.dzenis.tech). 👾
+## Credits 👏
+Reactive-Contacts__full-stack was created by [Dzenis H.](https://www.dzenis.tech) 👾
 
-If you like what you see, please consider giving a ⭐️.
+If you like what you see, please consider giving a ⭐️
