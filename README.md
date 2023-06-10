@@ -1,5 +1,4 @@
-I apologize for the mistake. Here is an updated version of the ReadMe.md file with a correctly sized favicon and relevant emojis added to each section:
-
+##
 # <img src="https://raw.githubusercontent.com/dzenis-h/Reactive-Contacts__full-stack/main/build/favicon.ico" width = 50> Reactive Contacts - [full-stack version].
 
 ## Overview 📖
